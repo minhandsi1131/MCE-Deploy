@@ -1,0 +1,39 @@
+.home {
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  padding-top: 33px;
+  overflow-y: scroll;
+  flex-wrap: unset !important;
+  overflow: hidden;
+  min-height: calc(100vh - var(--headerWeb) - var(--footer));
+}
+
+.list-message {
+  overflow: hidden;
+}
+
+.unexpand_content {
+  height: 50px;
+}
+
+.expand_content {
+  max-height: 100%;
+}
+
+.bannerHome {
+  background-image: url("../../../images/bannerHome.png");
+  background-size: 100% 100%;
+  margin-top: 30px;
+  height: 120px;
+}
+
+@media only screen and (max-width: 768px) {
+  .home {
+    height: calc(100vh - var(--header) - var(--footer));
+  }
+
+  .expand-home {
+    height: 100%;
+  }
+}

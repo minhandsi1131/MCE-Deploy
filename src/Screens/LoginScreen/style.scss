@@ -1,0 +1,12 @@
+.root {
+  min-Height: 100vh;
+  background-image: url("../../images/background.png");
+  background-size: cover;
+}
+
+@media only screen and (max-width: 1024px) {
+  .root {
+    background-image: url("../../images/background_mobile.png");
+    background-size: cover;
+  }
+}

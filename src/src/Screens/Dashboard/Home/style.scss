@@ -1,0 +1,19 @@
+.home {
+  height: calc(100vh - 65px - 56px);
+  padding-left: 20px;
+  padding-right: 20px;
+  border-radius: 20px;
+  padding-top: 33px;
+}
+
+.bannerHome {
+  background-image: url("../../../images/bannerHome.png");
+  background-size: cover;
+}
+
+@media only screen and (max-width: 768px) {
+  .home {
+    height: calc(100vh - 45px - 56px);
+    ;
+  }
+}

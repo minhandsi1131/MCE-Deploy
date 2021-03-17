@@ -1,0 +1,21 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="20" height="22" viewBox="0 0 20 22">
+    <defs>
+        <filter id="jzklzurlfa">
+            <feColorMatrix in="SourceGraphic" values="0 0 0 0 0.612624 0 0 0 0 0.676200 0 0 0 0 0.701135 0 0 0 1.000000 0"/>
+        </filter>
+    </defs>
+    <g fill="none" fill-rule="evenodd">
+        <g>
+            <g>
+                <g filter="url(#jzklzurlfa)" transform="translate(-318 -725) translate(0 700) translate(318 25)">
+                    <path stroke="#FEFEFE" stroke-width="2" d="M6.398 21.095H2.047c-1.054 0-1.91-.854-1.91-1.908V2.322c0-1.054.856-1.91 1.91-1.91h4.351c1.055 0 1.91.856 1.91 1.91v16.865c0 1.054-.855 1.908-1.91 1.908z"/>
+                    <path fill="#FEFEFE" d="M5.021 16.58c0 .508-.411.921-.92.921-.507 0-.92-.413-.92-.921s.413-.922.92-.922c.509 0 .92.414.92.922"/>
+                    <path stroke="#FEFEFE" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M4.102 4.967L4.102 8.298"/>
+                    <path stroke="#FEFEFE" stroke-width="2" d="M8.075 1.438l5.5-1.248c1.027-.244 2.056.388 2.3 1.413l3.922 16.403c.244 1.026-.388 2.055-1.413 2.3l-4.233 1.012c-1.025.244-2.056-.388-2.3-1.413L8.25 5.295"/>
+                    <path fill="#FEFEFE" d="M15.994 16.234c.118.493-.188.99-.68 1.109-.496.118-.992-.188-1.11-.681-.118-.494.188-.991.681-1.11.493-.117.991.188 1.11.682"/>
+                    <path stroke="#FEFEFE" stroke-linecap="round" stroke-linejoin="round" stroke-width="2" d="M12.4 5.155L13.174 8.393"/>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

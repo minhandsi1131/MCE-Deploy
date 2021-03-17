@@ -1,0 +1,11 @@
+.library {
+  height: calc(100vh - 65px - 56px);
+  ;
+}
+
+@media only screen and (max-width: 768px) {
+  .library {
+    height: calc(100vh - 45px - 56px);
+    ;
+  }
+}

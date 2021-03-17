@@ -1,0 +1,11 @@
+.messageList {
+  min-height: calc(100vh - var(--headerWeb) - var(--footer));
+  ;
+}
+
+@media only screen and (max-width: 768px) {
+  .messageList {
+    min-height: calc(100vh - var(--header) - var(--footer));
+    ;
+  }
+}

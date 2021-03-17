@@ -1,0 +1,23 @@
+.header {
+  background-color: transparent;
+  position: absolute;
+  padding: 20px 126px;
+}
+
+.headerUser {
+  position: sticky;
+  top: 0;
+  background-color: white;
+  padding: 20px 126px;
+  box-shadow: 0 4px 25px 0 rgba(189, 191, 208, 0.5);
+}
+
+@media only screen and (max-width: 768px) {
+  .header {
+    padding: 10px 26px;
+  }
+
+  .headerUser {
+    padding: 10px 26px;
+  }
+}
