@@ -1,24 +1,25 @@
 {
   "files": {
-    "main.css": "/MCE-Deploy/static/css/main.90aa56a6.chunk.css",
-    "main.js": "/MCE-Deploy/static/js/main.92c942b1.chunk.js",
-    "main.js.map": "/MCE-Deploy/static/js/main.92c942b1.chunk.js.map",
-    "runtime-main.js": "/MCE-Deploy/static/js/runtime-main.bb36ff59.js",
-    "runtime-main.js.map": "/MCE-Deploy/static/js/runtime-main.bb36ff59.js.map",
-    "static/js/2.da94f3b5.chunk.js": "/MCE-Deploy/static/js/2.da94f3b5.chunk.js",
-    "static/js/2.da94f3b5.chunk.js.map": "/MCE-Deploy/static/js/2.da94f3b5.chunk.js.map",
-    "static/js/3.3b3b721f.chunk.js": "/MCE-Deploy/static/js/3.3b3b721f.chunk.js",
-    "static/js/3.3b3b721f.chunk.js.map": "/MCE-Deploy/static/js/3.3b3b721f.chunk.js.map",
+    "main.css": "/MCE-Deploy/static/css/main.be51c0b9.chunk.css",
+    "main.js": "/MCE-Deploy/static/js/main.a02ab285.chunk.js",
+    "main.js.map": "/MCE-Deploy/static/js/main.a02ab285.chunk.js.map",
+    "runtime-main.js": "/MCE-Deploy/static/js/runtime-main.f23f39d2.js",
+    "runtime-main.js.map": "/MCE-Deploy/static/js/runtime-main.f23f39d2.js.map",
+    "static/js/2.b6f4a31b.chunk.js": "/MCE-Deploy/static/js/2.b6f4a31b.chunk.js",
+    "static/js/2.b6f4a31b.chunk.js.map": "/MCE-Deploy/static/js/2.b6f4a31b.chunk.js.map",
+    "static/js/3.c6bb3759.chunk.js": "/MCE-Deploy/static/js/3.c6bb3759.chunk.js",
+    "static/js/3.c6bb3759.chunk.js.map": "/MCE-Deploy/static/js/3.c6bb3759.chunk.js.map",
     "index.html": "/MCE-Deploy/index.html",
-    "static/css/main.90aa56a6.chunk.css.map": "/MCE-Deploy/static/css/main.90aa56a6.chunk.css.map",
-    "static/js/2.da94f3b5.chunk.js.LICENSE.txt": "/MCE-Deploy/static/js/2.da94f3b5.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/MCE-Deploy/static/media/background_mobile.605cbcc2.png",
-    "static/media/logo.d4bfb59e.svg": "/MCE-Deploy/static/media/logo.d4bfb59e.svg"
+    "static/css/main.be51c0b9.chunk.css.map": "/MCE-Deploy/static/css/main.be51c0b9.chunk.css.map",
+    "static/js/2.b6f4a31b.chunk.js.LICENSE.txt": "/MCE-Deploy/static/js/2.b6f4a31b.chunk.js.LICENSE.txt",
+    "static/media/style.scss": "/MCE-Deploy/static/media/bannerHome.2fdf1603.png",
+    "static/media/logo.d4bfb59e.svg": "/MCE-Deploy/static/media/logo.d4bfb59e.svg",
+    "static/media/logo_color.32d74441.svg": "/MCE-Deploy/static/media/logo_color.32d74441.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.bb36ff59.js",
-    "static/js/2.da94f3b5.chunk.js",
-    "static/css/main.90aa56a6.chunk.css",
-    "static/js/main.92c942b1.chunk.js"
+    "static/js/runtime-main.f23f39d2.js",
+    "static/js/2.b6f4a31b.chunk.js",
+    "static/css/main.be51c0b9.chunk.css",
+    "static/js/main.a02ab285.chunk.js"
   ]
 }
