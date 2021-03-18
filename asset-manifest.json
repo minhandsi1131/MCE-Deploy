@@ -1,25 +1,27 @@
 {
   "files": {
-    "main.css": "/MCE-Deploy/static/css/main.be51c0b9.chunk.css",
-    "main.js": "/MCE-Deploy/static/js/main.a02ab285.chunk.js",
-    "main.js.map": "/MCE-Deploy/static/js/main.a02ab285.chunk.js.map",
-    "runtime-main.js": "/MCE-Deploy/static/js/runtime-main.f23f39d2.js",
-    "runtime-main.js.map": "/MCE-Deploy/static/js/runtime-main.f23f39d2.js.map",
-    "static/js/2.b6f4a31b.chunk.js": "/MCE-Deploy/static/js/2.b6f4a31b.chunk.js",
-    "static/js/2.b6f4a31b.chunk.js.map": "/MCE-Deploy/static/js/2.b6f4a31b.chunk.js.map",
-    "static/js/3.c6bb3759.chunk.js": "/MCE-Deploy/static/js/3.c6bb3759.chunk.js",
-    "static/js/3.c6bb3759.chunk.js.map": "/MCE-Deploy/static/js/3.c6bb3759.chunk.js.map",
+    "main.css": "/MCE-Deploy/static/css/main.b3743d69.chunk.css",
+    "main.js": "/MCE-Deploy/static/js/main.9a5e6a06.chunk.js",
+    "main.js.map": "/MCE-Deploy/static/js/main.9a5e6a06.chunk.js.map",
+    "runtime-main.js": "/MCE-Deploy/static/js/runtime-main.ec5b25a6.js",
+    "runtime-main.js.map": "/MCE-Deploy/static/js/runtime-main.ec5b25a6.js.map",
+    "static/js/2.1d4bf14f.chunk.js": "/MCE-Deploy/static/js/2.1d4bf14f.chunk.js",
+    "static/js/2.1d4bf14f.chunk.js.map": "/MCE-Deploy/static/js/2.1d4bf14f.chunk.js.map",
+    "static/js/3.9d4cf822.chunk.js": "/MCE-Deploy/static/js/3.9d4cf822.chunk.js",
+    "static/js/3.9d4cf822.chunk.js.map": "/MCE-Deploy/static/js/3.9d4cf822.chunk.js.map",
     "index.html": "/MCE-Deploy/index.html",
-    "static/css/main.be51c0b9.chunk.css.map": "/MCE-Deploy/static/css/main.be51c0b9.chunk.css.map",
-    "static/js/2.b6f4a31b.chunk.js.LICENSE.txt": "/MCE-Deploy/static/js/2.b6f4a31b.chunk.js.LICENSE.txt",
-    "static/media/style.scss": "/MCE-Deploy/static/media/bannerHome.2fdf1603.png",
+    "static/css/main.b3743d69.chunk.css.map": "/MCE-Deploy/static/css/main.b3743d69.chunk.css.map",
+    "static/js/2.1d4bf14f.chunk.js.LICENSE.txt": "/MCE-Deploy/static/js/2.1d4bf14f.chunk.js.LICENSE.txt",
+    "static/media/avatar.5503c735.png": "/MCE-Deploy/static/media/avatar.5503c735.png",
+    "static/media/style.scss": "/MCE-Deploy/static/media/bannerHome.221151cc.png",
+    "static/media/icons-message.e3e5a4f7.svg": "/MCE-Deploy/static/media/icons-message.e3e5a4f7.svg",
     "static/media/logo.d4bfb59e.svg": "/MCE-Deploy/static/media/logo.d4bfb59e.svg",
     "static/media/logo_color.32d74441.svg": "/MCE-Deploy/static/media/logo_color.32d74441.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.f23f39d2.js",
-    "static/js/2.b6f4a31b.chunk.js",
-    "static/css/main.be51c0b9.chunk.css",
-    "static/js/main.a02ab285.chunk.js"
+    "static/js/runtime-main.ec5b25a6.js",
+    "static/js/2.1d4bf14f.chunk.js",
+    "static/css/main.b3743d69.chunk.css",
+    "static/js/main.9a5e6a06.chunk.js"
   ]
 }
